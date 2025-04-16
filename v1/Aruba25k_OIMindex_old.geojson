@@ -1,5 +1,6 @@
 {
     "type": "FeatureCollection",
+    "name": "Aruba25k_OIMindex",
     "features": [
         {
             "type": "Feature",
