@@ -39,7 +39,6 @@
                 "title": "fake title",
                 "note": "fake note",
                 "recId": "berkeley-s7w431-a",
-                "thumbUrl": "http://localhost:3000/catalog/berkeley-s7038h",
                 "contLines": true,
                 "contInterv": "10 Meters",
                 "inst": "University of California Berkeley",
