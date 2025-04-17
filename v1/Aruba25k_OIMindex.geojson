@@ -4,7 +4,6 @@
     "features": [
         {
             "type": "Feature",
-            "id": 0,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33,7 +32,7 @@
                 ]
             },
             "properties": {
-                "FID": 0,
+                "FID": 1,
                 "NAME": "01",
                 "label": "01",
                 "date": "1995",
@@ -41,14 +40,12 @@
                 "contInterv": "10 Meters",
                 "inst": "University of California Berkeley",
                 "available": true,
-                "digHold": "https://geodata.lib.berkeley.edu/catalog/berkeley-s7w431",
                 "websiteUrl": "https://geodata.lib.berkeley.edu/catalog/berkeley-s7w431",
                 "Field": 0
             }
         },
         {
             "type": "Feature",
-            "id": 1,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -77,7 +74,7 @@
                 ]
             },
             "properties": {
-                "FID": 1,
+                "FID": 2,
                 "NAME": "02",
                 "label": "02",
                 "date": "1995",
@@ -85,13 +82,12 @@
                 "contInterv": "10 Meters",
                 "inst": "University of California Berkeley",
                 "available": true,
-                "digHold": "https://geodata.lib.berkeley.edu/catalog/berkeley-s7rb0q",
+                "websiteUrl": "https://geodata.lib.berkeley.edu/catalog/berkeley-s7rb0q",
                 "Field": 0
             }
         },
         {
             "type": "Feature",
-            "id": 2,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -120,7 +116,7 @@
                 ]
             },
             "properties": {
-                "FID": 2,
+                "FID": 3,
                 "NAME": "03",
                 "label": "03",
                 "date": "1995",
@@ -134,7 +130,6 @@
         },
         {
             "type": "Feature",
-            "id": 3,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -163,7 +158,7 @@
                 ]
             },
             "properties": {
-                "FID": 3,
+                "FID": 4,
                 "NAME": "04",
                 "label": "04",
                 "date": "1995",
