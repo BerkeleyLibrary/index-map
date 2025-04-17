@@ -34,8 +34,12 @@
             "properties": {
                 "FID": 1,
                 "NAME": "01",
-                "label": "01",
+                "label": "01 - more information",
                 "date": "1995",
+                "title": "fake title",
+                "note": "fake note",
+                "recId": "berkeley-s7w431",
+                "thumbUrl": "https://geodata.lib.berkeley.edu/catalog/berkeley-s7w431",
                 "contLines": true,
                 "contInterv": "10 Meters",
                 "inst": "University of California Berkeley",
