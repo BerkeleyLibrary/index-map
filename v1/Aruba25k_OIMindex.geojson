@@ -43,7 +43,7 @@
                 "contInterv": "10 Meters",
                 "inst": "University of California Berkeley",
                 "available": true,
-                "websiteUrl": "https://geodata.lib.berkeley.edu/catalog/berkeley-s7w431",
+                "websiteUrl": "http://localhost:3000/catalog/berkeley-s7038h",
                 "Field": 0
             }
         },
