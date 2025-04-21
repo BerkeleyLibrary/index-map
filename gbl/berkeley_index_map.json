@@ -65,7 +65,8 @@
     "gbl_resourceType_sm": [
         "Topographic maps",
         "Quadrangle maps",
-        "Digital maps"
+        "Digital maps",
+        "Index maps"
     ],
     "gbl_wxsIdentifier_s": "s7st5r",
     "id": "berkeley-s7st5r",
