@@ -85,7 +85,7 @@
                 "contLines": true,
                 "contInterv": "10 Meters",
                 "inst": "University of California Berkeley",
-                "available": true,
+                "available": false,
                 "websiteUrl": "https://geodata.lib.berkeley.edu/catalog/berkeley-s7rb0q",
                 "Field": 0
             }
